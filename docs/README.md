@@ -1,11 +1,4 @@
 
-<a href="https://github.com/asrodionov/Diplom/blob/master/docs/Plan.md">План тестирования покупки тура в сервисе «Путешествие дня»</a>
-
-<a href="https://github.com/asrodionov/Diplom/blob/master/docs/Report.md">Отчет по итогам тестирования покупки тура в сервисе «Путешествие дня»</a>
-
-<a href="https://github.com/asrodionov/Diplom/blob/master/docs/Summary.md">Отчет по итогам автоматизации тестирования покупки тура в сервисе «Путешествие дня»</a>
-
-
 ## DINS QAA HOME TASK
 
 #### Part 1
