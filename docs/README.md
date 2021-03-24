@@ -3,7 +3,7 @@
 
 #### Part 1
 
-<a href="https://github.com/asrodionov/DINS/blob/master/docs/Plan.md">Auto tests</a>
+<a href="https://github.com/asrodionov/DINS/blob/master/src/test/java/PostsApiTest.java">Auto tests</a>
 
 #### Part 2
 
