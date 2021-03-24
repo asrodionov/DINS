@@ -11,6 +11,6 @@
 
 #### Part 3
 
-<a href="https://github.com/asrodionov/DINS/blob/master/docs/Plan.md">Bug report</a>
+<a href="https://github.com/asrodionov/DINS/issues/1">Bug report</a>
 
 
