@@ -7,7 +7,7 @@
 
 #### Part 2
 
-<a href="https://github.com/asrodionov/DINS/blob/master/docs/Plan.md">Test cases</a>
+<a href="https://github.com/asrodionov/DINS/blob/master/docs/TestCases.md">Test cases</a>
 
 #### Part 3
 
